@@ -4,9 +4,7 @@ on:
   pull_request:
     branches:
       - main # Ändra till din huvudgren om det är annorlunda
-    paths:
-      - '**/*.js' # Ändra detta beroende på filtyp och struktur
- 
+
 jobs:
   build:
     runs-on: ubuntu-latest
