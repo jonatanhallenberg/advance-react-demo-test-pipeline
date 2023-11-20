@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1700517455307" clover="3.2.0">
+  <project timestamp="1700517455307" name="All files">
+    <metrics statements="28" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="8" elements="39" coveredelements="30" complexity="0" loc="28" ncloc="28" packages="2" files="4" classes="4"/>
+    <package name="src">
+      <metrics statements="20" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="7"/>
+      <file name="CatFacts.tsx" path="/Users/jonatan/repos/reky-material/courses/edument/advanced-react/advance-react-demo/src/CatFacts.tsx">
+        <metrics statements="9" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+      </file>
+      <file name="UseEffectSorting.tsx" path="/Users/jonatan/repos/reky-material/courses/edument/advanced-react/advance-react-demo/src/UseEffectSorting.tsx">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.api">
+      <metrics statements="8" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <file name="getCatFacts.ts" path="/Users/jonatan/repos/reky-material/courses/edument/advanced-react/advance-react-demo/src/api/getCatFacts.ts">
+        <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="getProducts.ts" path="/Users/jonatan/repos/reky-material/courses/edument/advanced-react/advance-react-demo/src/api/getProducts.ts">
+        <metrics statements="3" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
